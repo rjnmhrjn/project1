@@ -24,3 +24,4 @@ urlpatterns = [
 
 
 ## reboot pachhi
+##after closing session

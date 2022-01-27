@@ -21,3 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('user/', include('app1.urls')),
 ]
+
+
+##lunch ke baad
